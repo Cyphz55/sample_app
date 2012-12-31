@@ -1,4 +1,10 @@
-== Welcome to Rails
+#Ruby On Rails 3 Tutorial : Sample Application
+
+This is just a sample app from the book.
+
+
+
+==Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
